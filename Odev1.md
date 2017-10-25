@@ -4,18 +4,18 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
-
-#  (buraya proje başlığını yazınız)
+9-D  | Yavuzalp Yusuf Mutlu| 529
+9-D   | Harun Bazancir | 648
+9-D |Yiğit Yamak | 602
+#  (Water Bottle)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Bottle flip günümüzde çocuğundan gencine tüm dünyada yaygınlaşan yeni bir eğlence haline geldi. Herkes kendine göre çeşitli yöntemlerle bir atış şekli geliştirmeye başladı. Kimileri yüksekten atmaya çalışırken kimileri de alçaktan atmaya çalıştı. Buna benzer olarak bazıları şişedeki suyun fazla olması gerektiğini belirtirken bazıları da şişenin içindeki suyun az olması gerektiği fikrini savundu. Ama bu sisteme dayalı olarak yapılan atışların bazılarının isabetli olmadığını gören insanlar bottle flip eğlencesini bir şans oyunu olarak görmeye başladı. Ancak biz bu eğlencenin şans gibi etkenlere değil de yerçekimi,ağırlık merkezi,ivme gibi fizik kurallarına bağlı olduğunu düşünüyoruz. Bize göre doğru atışın gerçekleşmesi için şişenin  doluluk oranı, atış yaparken şişenin tutulduğu kısım, atış açısı, şişeyi atmak için sarfedilen güç miktarı ve bunlara benzer durumlar etkilidir. Bu projeyi seçmemizin sebebi de bu durumları kullanarak doğru atışı gerçekleştirmek, bu eğlencenin bir şans işi olmadığını doğru atışı nasıl gerçekleştireceğimizi bularak kanıtlamak ve bottle flip eğlencesinin hilesini açığa çıkartarak fiziğin bir konu üzerindeki etkisini daha açıklamak.
+ 
+## Kaynakçalar  
 
-## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
+http://www.teknofomo.com/index.php/2016/12/29/water-bottle-flip-challenge-2016-ya-damgasini-vurdu/
+ 
 
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+http://www.sheknows.com/parenting/articles/1129132/bottle-flipping
 
+https://www.google.com.tr/amp/www.instructables.com/id/How-to-Water-Bottle-Flip-Perfectly-Every-Time/%3Famp_page%3Dtrue
